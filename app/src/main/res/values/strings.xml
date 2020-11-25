@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MPaint</string>
+
+    <string-array name="shapes">
+        <item>Треугольник</item>
+        <item>Круг</item>
+        <item>Прямая линия</item>
+        <item>Квадрат</item>
+        <item>Прямоугольник</item>
+    </string-array>
+</resources>
